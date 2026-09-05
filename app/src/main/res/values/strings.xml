@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Road Rooster</string>
+    <string name="about_title">ABOUT</string>
+    <string name="about_gameplay_heading">THE GAME</string>
+    <string name="about_gameplay_body">Road Rooster is an offline three-lane arcade runner built around readable routes, lane hops, jumps, rooster dives, traffic crossings, Coins, Corn and Golden Eggs.</string>
+    <string name="about_fairness_heading">FAIR PLAY</string>
+    <string name="about_fairness_body">Every authored road is validated for a safe route. Cosmetics never change speed. Optional Road Aids are single-run items only: they do not create multipliers, combo chains or paid advantages.</string>
+    <string name="about_credits_heading">ART &amp; DEVELOPMENT</string>
+    <string name="about_credits_body">Native Android and Kotlin game. The supplied farm-road design is the visual source of truth; missing production pieces were created specifically for Road Rooster.</string>
+    <string name="about_version_heading">VERSION</string>
+    <string name="privacy_title">PRIVACY</string>
+    <string name="privacy_summary_heading">OFFLINE BY DESIGN</string>
+    <string name="privacy_summary_body">Road Rooster does not require an account and does not send gameplay data to a server. The game contains no advertising, analytics, in-app purchases or cloud services.</string>
+    <string name="privacy_storage_heading">DATA STORED ON THIS DEVICE</string>
+    <string name="privacy_storage_body">Level progress, collected currency, Golden Eggs, achievement statistics, personal level records, unlocked cosmetics, Road Aid inventory and sound, music and vibration preferences are stored locally using Android DataStore.</string>
+    <string name="privacy_permissions_heading">DEVICE ACCESS</string>
+    <string name="privacy_permissions_body">The game does not access contacts, location, photos, camera or microphone. Vibration is used only when enabled for gameplay feedback.</string>
+    <string name="privacy_control_heading">YOUR CONTROL</string>
+    <string name="privacy_control_body">You can erase all locally stored progress by clearing the app data in Android settings or uninstalling the game.</string>
+</resources>
